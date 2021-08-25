@@ -1,0 +1,3 @@
+streamlit
+text2emotion
+python-osc
